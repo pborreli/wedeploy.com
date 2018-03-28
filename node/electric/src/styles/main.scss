@@ -24,3 +24,8 @@ $brand-success: #00AE55;
 @import "selection";
 @import "code";
 @import "tooltip";
+
+hr {
+  margin: 18px 0;
+  border-top: 1px solid rgba($primary, 0.2);
+}
