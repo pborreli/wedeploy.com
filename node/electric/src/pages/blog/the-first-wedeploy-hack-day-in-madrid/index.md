@@ -43,13 +43,13 @@ For those who prefer to watch instead of read, here are the presentation videos.
 
 #### [Emoji Chat](https://www.youtube.com/watch?v=7iMfTvhB-38&list=PLKb_gn-WO_Ko30pgNP-gxTKKrsaAC-jlk&index=1)
 
-Emojis have done a lot to help us communitate with each other in ways that words cannot. But what if we wanted to take our online communication to the next level? Hello Emoji Chat. Once you join the site, you will be assigned an emoji and you can start moving it around and interacting with the other emoji users, even sending classic text.
+Emojis have done a lot to help us communicate with each other in ways that words cannot. But what if we wanted to take our online communication to the next level? Hello Emoji Chat. Once you join the site, you will be assigned an emoji and you can start moving it around and interacting with the other emoji users, even sending classic text.
 
 **What they used:** [WeDeploy Hosting](/docs/hosting), [WeDeploy Data](/docs/data)
 
 #### [Salmorejo](https://www.youtube.com/watch?v=OcUhyNp7KFY&list=PLKb_gn-WO_Ko30pgNP-gxTKKrsaAC-jlk&index=5)
 
-There is a workplace efficiency technique called Pomodoro that basically goes like this. You set a timer for 25 min and place a signal on your desk to notify your coworkers that you are busy. Then you focus only on one task during that time, and after the timer is done, you can tend to other things like meetings, emails, and coffee breaks. The problem is that sometimes you leave the signal up or maybe never put it there in the first place so the others at work don't know if they can interupt you or not.
+There is a workplace efficiency technique called Pomodoro that basically goes like this. You set a timer for 25 min and place a signal on your desk to notify your coworkers that you are busy. Then you focus only on one task during that time, and after the timer is done, you can tend to other things like meetings, emails, and coffee breaks. The problem is that sometimes you leave the signal up or maybe never put it there in the first place so the others at work don't know if they can interrupt you or not.
 
 The good news is that this project fixes those problems with a [Slack](https://slack.com/) notification integration and a designated site to start and track the Salmorejos that are happening in your office.
 
@@ -60,7 +60,7 @@ The good news is that this project fixes those problems with a [Slack](https://s
 
 #### [Multi-Device Pizza Ordering](https://www.youtube.com/watch?v=5AoDiNM1kbI&list=PLKb_gn-WO_Ko30pgNP-gxTKKrsaAC-jlk&index=3)
 
-Ever been sitting on your couch and wanted to order a pizza but you don't have your computer with you or you want to be notified from your phone when the delivery is arriving? We have good news for you, this team created a multi-device system for ordering pizza, going from a Apple TV app, to your cell phone, to the deliverer's iPad, and then of course, to your hungry stomache.
+Ever been sitting on your couch and wanted to order a pizza but you don't have your computer with you or you want to be notified from your phone when the delivery is arriving? We have good news for you, this team created a multi-device system for ordering pizza, going from a Apple TV app, to your cell phone, to the deliverer's iPad, and then of course, to your hungry stomach.
 
 **What they used:** [WeDeploy Data](/docs/data)
 

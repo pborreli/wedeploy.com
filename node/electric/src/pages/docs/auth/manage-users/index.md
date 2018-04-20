@@ -450,7 +450,7 @@ WeDeploy
     password: "password",
     email: "eleven@hawkinslabs.com",
     name: "Eleven",
-    supporteScopes: ["friends", "dont", "lie"]
+    supportedScopes: ["friends", "dont", "lie"]
   })
   .then(function() {
     // Successfully updated.
@@ -468,7 +468,7 @@ curl -X "PATCH" "https://<serviceID>-<projectID>.wedeploy.io/users/<userID>" \
         "email": "eleven@hawkinslab.com",
         "name": "Eleven",
         "photoUrl": "https://hawkinslabs.com/011/profile.jpg",
-        "suportedScopes": ["friends", "dont", "lie"]
+        "supportedScopes": ["friends", "dont", "lie"]
       }'
 ```
 

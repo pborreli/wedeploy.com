@@ -20,7 +20,7 @@ In this class I've learned the basic concepts of [IoT](https://en.wikipedia.org/
   <img src="/images/blog/post-6--0.jpg" alt="IoT train is passing. Credits: Amos Bar-Zeev (https://unsplash.com/search/wait?photo=IjA4vTJ3PHY)">
 </figure>
 
-I realized that in the short period of time I had to accomplish this, I would need to learn how to use and configure a complete new tool like [Kaa](https://www.kaaproject.org) or [Machina.io](https://macchina.io). But I just wanted a place to simulate an IoT platform super fast. Then a thought occured to me:
+I realized that in the short period of time I had to accomplish this, I would need to learn how to use and configure a complete new tool like [Kaa](https://www.kaaproject.org) or [Machina.io](https://macchina.io). But I just wanted a place to simulate an IoT platform super fast. Then a thought occurred to me:
 
 > Why not use WeDeploy to host my app? It already provides all the infrastructure I need.
 
@@ -243,7 +243,7 @@ Here the `WeDeploy` object hides the magic of communicating with other WeDeploy 
 
 ##### Displaying data
 
-At that point I had built two services: a Java REST API developed with `Spring Boot`, and a [WeDeploy Data service](/docs/data) for persistence. Then I wanted to display the metrics in a web interface. So, I created a third WeDeploy service, [Hosting](/docs/hosting), which allows uploading static files, such as HTML, CSS and JavaScript, and gave it the name `ui`. Below is the `wedeploy.json` file that I made to impliment the [Hosting Service](/docs/hosting).
+At that point I had built two services: a Java REST API developed with `Spring Boot`, and a [WeDeploy Data service](/docs/data) for persistence. Then I wanted to display the metrics in a web interface. So, I created a third WeDeploy service, [Hosting](/docs/hosting), which allows uploading static files, such as HTML, CSS and JavaScript, and gave it the name `ui`. Below is the `wedeploy.json` file that I made to implement the [Hosting Service](/docs/hosting).
 
 ```application/json
 {

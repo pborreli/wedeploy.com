@@ -71,7 +71,7 @@ In order to be able to persist and share data between services, we're introducin
 
 ##### 6. Instant Deployment
 
-Before, you had two ways of deploying code. You could either connect with GitHub or create a remote pointing to our Git server. We noticed that people loved the convenience of integrating with GitHub so [we're keeping that](/docs/deploy/continuous-deployment/), but when using our Git server the experience was not as fluid, especially the authentication step that occured on every push.
+Before, you had two ways of deploying code. You could either connect with GitHub or create a remote pointing to our Git server. We noticed that people loved the convenience of integrating with GitHub so [we're keeping that](/docs/deploy/continuous-deployment/), but when using our Git server the experience was not as fluid, especially the authentication step that occurred on every push.
 
 Because of that, we decided to rethink our CLI and introduce a new deploy command. Now you don't need to rely on Git for every deploy. All you need to do is type `we login` to authenticate only once and then run `we deploy` on your project folder.
 

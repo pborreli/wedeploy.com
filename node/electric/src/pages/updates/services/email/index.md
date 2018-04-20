@@ -10,7 +10,7 @@ updates:
  -
   version: 2.1.0
   date: Jan 5th, 2018
-  description: Change email regex to accomdate address-spec
+  description: Change email regex to accomodate address-spec
  -
   version: 2.0.0
   date: Nov 21st, 2017

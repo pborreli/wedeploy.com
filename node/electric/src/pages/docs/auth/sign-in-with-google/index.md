@@ -88,7 +88,7 @@ Create a client id and client secret by [registering your application](https://d
 <aside>
 
 Please be sure to add the callback url `https://<authID>-<projectID>.wedeploy.io/oauth/token` in your application.
-For local development, use `wedeploy.me` instead. To use with custom domains you can change the sufix `<projectID>.wedeploy.io` for your domain.
+For local development, use `wedeploy.me` instead. To use with custom domains you can change the suffix `<projectID>.wedeploy.io` for your domain.
 
 </aside>
 
